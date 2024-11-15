@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TDD_Kaprekar" />
+        <module name="bib_t2" />
+        <module name="POO1" />
+        <module name="tp3" />
+        <module name="TDD_Pass" />
+        <module name="test_javadoc" />
+        <module name="TDD_Fibo" />
+        <module name="POO1 (1)" />
+        <module name="POO0705" />
+        <module name="rev_pu" />
+      </profile>
+      <profile name="Annotation profile for POO0705" enabled="true">
+        <sourceOutputDir name="../POO0705/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../POO0705/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="POO0705 (1)" />
+        <module name="POO0705 (2)" />
+      </profile>
+      <profile name="Annotation profile for POO0705 (3)" enabled="true">
+        <sourceOutputDir name="../POO0712/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../POO0712/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="POO0705 (3)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
